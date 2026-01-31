@@ -86,7 +86,7 @@ ShelfSense uses a hybrid scoring approach:
 - Series bonus
 - Genre overlap
 - Mood weights
-- 
+  
 ---
 
 ## 💡 Future Enhancements
