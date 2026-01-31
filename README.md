@@ -86,3 +86,20 @@ ShelfSense uses a hybrid scoring approach:
 - Series bonus
 - Genre overlap
 - Mood weights
+- 
+---
+
+## 💡 Future Enhancements
+
+Planned improvements for future versions of **ShelfSense** include:
+
+- 🔐 **User Authentication** – Allow multiple users to maintain their own personal libraries  
+- 🌙 **Dark Mode UI** – Improve accessibility and visual comfort  
+- 📤 **Export Recommendations** – Download reading lists as CSV or PDF  
+- 📊 **Interactive Charts (Plotly)** – Replace static charts with dynamic visualizations  
+- 📱 **Mobile UI Optimization** – Enhance layout for smaller screens  
+- ☁️ **Google Drive Sync** – Backup and restore book data automatically  
+- 📚 **Multiple Libraries Support** – Manage separate collections (e.g., Fiction, Academic, Personal)  
+- 🗄 **Cloud Database Integration** – Replace CSV storage with a scalable cloud database (Firebase / PostgreSQL)
+
+These features aim to make ShelfSense more scalable, personalized, and production-ready.
